@@ -1,1 +1,2 @@
-# angulardashboard template
+# Modernize-Angular-pro
+Modernize Angular Admin Dashboard
